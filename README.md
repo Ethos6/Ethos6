@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ethos6?tab=repositories"><img alt="Open source" src="https://img.shields.io/badge/open%20source-MIT-3b5bff?style=flat-square"></a>
-  <img alt="Self-hosted" src="https://img.shields.io/badge/deploy-self--hosted-0b1330?style=flat-square">
-  <img alt="Model Context Protocol" src="https://img.shields.io/badge/AI%20agents-MCP%20servers-14b8a6?style=flat-square">
-  <img alt="Security" src="https://img.shields.io/badge/security-CodeQL%20%C2%B7%20Dependabot-1f2937?style=flat-square">
+  <a href="https://github.com/Ethos6?tab=repositories"><img alt="Open source" src="https://img.shields.io/badge/open%20source-MIT-111111?style=flat-square"></a>
+  <img alt="Self-hosted" src="https://img.shields.io/badge/deploy-self--hosted-2b2b2f?style=flat-square">
+  <img alt="Model Context Protocol" src="https://img.shields.io/badge/AI%20agents-MCP%20servers-44444a?style=flat-square">
+  <img alt="Security" src="https://img.shields.io/badge/security-CodeQL%20%C2%B7%20Dependabot-5c5c63?style=flat-square">
 </p>
 
 <h3 align="center">Infrastructure you own. Tools your AI agents can use. No API keys, no usage caps.</h3>
