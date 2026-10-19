@@ -29,6 +29,7 @@ Ethos 6 builds free, open-source building blocks that people and AI agents can r
 | **[SpectraProbe](https://github.com/Ethos6/spectraprobe)** | Static software analysis toolkit. Identifies, hashes and inspects PE, ELF, Mach-O, WebAssembly, APK/JAR archives and JavaScript projects. | TypeScript · CLI · MCP |
 | **[Free News API](https://github.com/Ethos6/free-news-api)** | The world's trending news, clustered across 50+ outlets. NewsAPI.org-compatible, with free hosted JSON on GitHub Pages. | Python · Docker · MCP |
 | **[Free Flight API](https://github.com/Ethos6/free-flight-api)** | Live flight tracking that merges four open ADS-B networks, with routes, photos, a live map and a streaming feed. | Python · Docker · MCP |
+| **[BrowserDock](https://github.com/Ethos6/browserdock)** | Self-hosted headless Chromium as an HTTP API. Send a URL and get rendered text and HTML, a screenshot or a PDF, with API keys, isolated sessions and SSRF protection on every redirect. | TypeScript · Docker · Playwright |
 
 ### How we build
 
