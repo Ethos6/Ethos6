@@ -21,6 +21,7 @@ Ethos 6 builds free, open-source building blocks that people and AI agents can r
 
 | Product | What it does | Built with |
 |---|---|---|
+| **[freeflow](https://github.com/Ethos6/freeflow)** | Keep coding when the free tier runs out. Runs Claude Code, OpenCode, Aider and any coding agent on 58 model providers, and moves each request to the next provider when one hits its limit. | JavaScript · CLI · Dashboard |
 | **[Free Search API](https://github.com/Ethos6/free-search-api)** | Keyless, unlimited web search API. Drop-in replacement for Tavily, Serper, Brave Search API and SearXNG, with an MCP server for AI agents. | Python · Docker · MCP |
 | **[Free OCR API](https://github.com/Ethos6/free-ocr-api)** | OCR and document data extraction. Turns PDFs, scans, invoices, receipts and bank statements into JSON, CSV or Excel. | Python · Docker · MCP |
 | **[Drive Hub](https://github.com/Ethos6/free-drive-hub)** | Joins any number of Google Drive accounts into one self-hosted drive, with a web app, a WebDAV network drive, pooled storage and 2FA. | Python · Docker · WebDAV |
