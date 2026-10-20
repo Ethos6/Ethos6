@@ -21,6 +21,7 @@ Ethos 6 builds free, open-source building blocks that people and AI agents can r
 
 | Product | What it does | Built with |
 |---|---|---|
+| **[Veil](https://github.com/Ethos6/veil)** | The private browser with Shields built in. Blocks ads, trackers, cookie banners and fingerprinting by default, opens every site over HTTPS, and sends nothing to Google or anyone else. Windows, macOS and Linux. | JavaScript · Electron · Desktop app |
 | **[freeflow](https://github.com/Ethos6/freeflow)** | Keep coding when the free tier runs out. Runs Claude Code, OpenCode, Aider and any coding agent on 58 model providers, and moves each request to the next provider when one hits its limit. | JavaScript · CLI · Dashboard |
 | **[masterly](https://github.com/Ethos6/masterly)** | Learn anything from your own material. Turns notes, textbooks and papers into a course: concepts in learning order, practice questions that quote your sources word for word (verified by code), and spaced repetition. | JavaScript · Web app · CLI |
 | **[Free Search API](https://github.com/Ethos6/free-search-api)** | Keyless, unlimited web search API. Drop-in replacement for Tavily, Serper, Brave Search API and SearXNG, with an MCP server for AI agents. | Python · Docker · MCP |
