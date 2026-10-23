@@ -41,6 +41,20 @@ Ethos 6 builds free, open-source building blocks that people and AI agents can r
 - **Agent-native.** Most products ship a Model Context Protocol server, so AI assistants can use them as tools out of the box.
 - **Secure by default.** Every repository runs CodeQL code scanning and Dependabot updates, accepts private vulnerability reports, and protects its `main` branch with required checks.
 
+#### Product path
+
+```mermaid
+flowchart LR
+    A[Open source repository] --> B[Self-hosted install]
+    B --> C[Connect to public sources or networks]
+    C --> D[Use product locally]
+    D --> E{MCP server available?}
+    E -->|Yes| F[Connect AI agents]
+    E -->|No| G[Use the product interface]
+    F --> H[Security checks and maintenance]
+    G --> H
+```
+
 ### Work with us
 
 - **Use it:** pick a product above. Each README has a quick start.
