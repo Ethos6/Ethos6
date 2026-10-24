@@ -33,6 +33,7 @@ Ethos 6 builds free, open-source building blocks that people and AI agents can r
 | **[Free News API](https://github.com/Ethos6/free-news-api)** | The world's trending news, clustered across 50+ outlets. NewsAPI.org-compatible, with free hosted JSON on GitHub Pages. | Python · Docker · MCP |
 | **[Free Flight API](https://github.com/Ethos6/free-flight-api)** | Live flight tracking that merges four open ADS-B networks, with routes, photos, a live map and a streaming feed. | Python · Docker · MCP |
 | **[BrowserDock](https://github.com/Ethos6/browserdock)** | Self-hosted headless browsers as a service. Start live Chromium sessions and drive them from Playwright or Puppeteer over CDP, or render pages to text, screenshots and PDFs, with session limits, usage metering and SSRF protection on every redirect. | TypeScript · Docker · Playwright |
+| **[PixelVeil](https://github.com/Ethos6/pixelveil)** | Offline image metadata inspection and cleaning for JPEG, PNG, WebP and GIF, with encoded-payload verification. | Python · CLI · Tkinter GUI |
 
 ### How we build
 
