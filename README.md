@@ -35,6 +35,11 @@ Ethos 6 builds free, open-source building blocks that people and AI agents can r
 | **[BrowserDock](https://github.com/Ethos6/browserdock)** | Self-hosted headless browsers as a service. Start live Chromium sessions and drive them from Playwright or Puppeteer over CDP, or render pages to text, screenshots and PDFs, with session limits, usage metering and SSRF protection on every redirect. | TypeScript · Docker · Playwright |
 | **[PixelVeil](https://github.com/Ethos6/pixelveil)** | Offline image metadata inspection and cleaning for JPEG, PNG, WebP and GIF, with encoded-payload verification. | Python · CLI · Tkinter GUI |
 | **[ScopeWatch](https://github.com/Ethos6/scopewatch)** | Passive snapshot of a website's public security posture, covering HTTPS, certificates, browser headers, cookies and security contact files. | Python · CLI · Passive HTTP |
+| **[Agent Army](https://github.com/Ethos6/agent-army)** | 110 production-grade AI agents on one tiny core: research, RAG, teams, memory, MCP and voice. Works with any model, including local Ollama, and every agent ships with evals. | Python · Zero dependencies · MCP |
+| **[superpowers](https://github.com/Ethos6/superpowers)** | Spec, plan, test-first, review and verify for AI coding agents, enforced by a zero-dependency ledger that refuses to close work without proof and resumes after context compaction. | JavaScript · CLI · Agent skills |
+| **[Veil](https://github.com/Ethos6/veil)** | Private browser with Shields built in: blocks ads, trackers, cookie banners and fingerprinting, HTTPS-only, no Google services and no telemetry. | Chromium · Windows · macOS · Linux |
+| **[instagram-growth-os](https://github.com/Ethos6/instagram-growth-os)** | 16 Claude skills and a dependency-free CLI to run an Instagram account: Reels, captions, carousels, stories, planning and Insights audits. Writes everything, posts nothing. | Python · CLI · Agent skills |
+| **[Traceglass](https://github.com/Ethos6/traceglass)** | Evidence-first static inspection for Linux binaries and software archives. Records what was observed, where it came from and which claims remain unknown. | Python · CLI · Agent skill |
 
 ### How we build
 
