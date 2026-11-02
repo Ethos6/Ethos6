@@ -21,6 +21,7 @@ Ethos 6 builds free, open-source building blocks that people and AI agents can r
 
 | Product | What it does | Built with |
 |---|---|---|
+| **[Agent Tillu](https://github.com/Ethos6/agent-tillu)** | AI coworkers that run entirely on your own computer with a local model. An Action Firewall checks every action in code, so nothing is sent, paid for or deleted without your approval; coworkers have memory, routines, a browser and MCP tools. | Python · Ollama · Desktop app |
 | **[freeflow](https://github.com/Ethos6/freeflow)** | Keep coding when the free tier runs out. Runs Claude Code, OpenCode, Aider and any coding agent on 58 model providers, and moves each request to the next provider when one hits its limit. | JavaScript · CLI · Dashboard |
 | **[masterly](https://github.com/Ethos6/masterly)** | Learn anything from your own material. Turns notes, textbooks and papers into a course: concepts in learning order, practice questions that quote your sources word for word (verified by code), and spaced repetition. | JavaScript · Web app · CLI |
 | **[Free Search API](https://github.com/Ethos6/free-search-api)** | Keyless, unlimited web search API. Drop-in replacement for Tavily, Serper, Brave Search API and SearXNG, with an MCP server for AI agents. | Python · Docker · MCP |
@@ -40,6 +41,11 @@ Ethos 6 builds free, open-source building blocks that people and AI agents can r
 | **[Veil](https://github.com/Ethos6/veil)** | Private browser with Shields built in: blocks ads, trackers, cookie banners and fingerprinting, HTTPS-only, no Google services and no telemetry. | Chromium · Windows · macOS · Linux |
 | **[instagram-growth-os](https://github.com/Ethos6/instagram-growth-os)** | 16 Claude skills and a dependency-free CLI to run an Instagram account: Reels, captions, carousels, stories, planning and Insights audits. Writes everything, posts nothing. | Python · CLI · Agent skills |
 | **[Traceglass](https://github.com/Ethos6/traceglass)** | Evidence-first static inspection for Linux binaries and software archives. Records what was observed, where it came from and which claims remain unknown. | Python · CLI · Agent skill |
+| **[Convertly](https://github.com/Ethos6/convertly)** | Private, local file conversion between documents, images, audio and data formats: CLI, Python API and a drag-and-drop web UI. Nothing is uploaded. | Python · CLI · Web UI |
+| **[Groundwork](https://github.com/Ethos6/groundwork)** | Makes an existing LLM better at doing tasks, less prone to hallucination and consistent in tone: a runtime layer, a fine-tuning kit and an eval. | Python · Runtime · Fine-tuning |
+| **[devfree](https://github.com/Ethos6/devfree)** | Free tiers for developers with real, sourced limits: hosting, databases, CI, monitoring, auth, email and AI APIs, as a searchable site and JSON data. | JavaScript · Site · JSON |
+| **[Hacking](https://github.com/Ethos6/Hacking)** | A maintained map of security courses, labs, tools, references and curated lists, with learning paths and weekly link health checks. | Curated list · Learning paths |
+| **[dockrail](https://github.com/Ethos6/dockrail)** | Lightweight helper for local and SSH-remote Docker Compose deployments. | Python · CLI · Docker |
 
 ### How we build
 
